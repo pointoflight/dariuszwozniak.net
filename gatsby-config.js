@@ -13,18 +13,6 @@ module.exports = {
         label: 'Blog',
         path: '/',
       },
-      // {
-      //   label: 'Kurs TDD',
-      //   path: '/kurs-tdd/',
-      // },
-      // {
-      //   label: 'Książka TDD',
-      //   path: '/ksiazka-tdd/',
-      // },
-      // {
-      //   label: 'Kategorie',
-      //   path: '/categories/',
-      // },
       {
         label: 'Tags',
         path: '/tags/',
@@ -39,11 +27,6 @@ module.exports = {
       twitter: 'https://twitter.com/VedantCh',
       github: 'https://github.com/pointoflight',
       linkedin: 'https://www.linkedin.com/in/vedant-chavda/',
-      // instagram: 'https://www.instagram.com/the.darek.wozniak/',
-      // flickr: 'https://www.flickr.com/photos/dariuszwozniak/albums',
-      // goodreads: 'https://www.goodreads.com/author/show/18135947.Dariusz_Wo_niak',
-      // stackoverflow: 'https://stackoverflow.com/users/297823/dariusz-wo%C5%BAniak',
-      // stackexchange: 'https://stackexchange.com/users/112989/dariusz-wo%c5%baniak?tab=accounts',
       rss: '/rss.xml',
     },
   },
@@ -135,7 +118,7 @@ module.exports = {
     'gatsby-plugin-sharp',
     {
       resolve: 'gatsby-plugin-google-analytics',
-      options: { trackingId: 'UA-133706665-1' },
+      options: { trackingId: 'UA-177007176-1' },
     },
     {
       resolve: 'gatsby-plugin-google-fonts',
