@@ -16,7 +16,7 @@ class NotFoundRoute extends React.Component {
                 <h1 className="page__title">404</h1>
                 <div className="page__body">
                   <p>
-                    Ups... nic tu nie ma ;)
+                  You just hit a route that doesn&#39;t exist... the sadness.
                   </p>
                 </div>
               </div>

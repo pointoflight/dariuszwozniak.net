@@ -13,12 +13,12 @@ class TagsRoute extends React.Component {
     return (
       <Layout>
         <div>
-          <Helmet title={`Tagi - ${title}`} />
+          <Helmet title={`All Tags - ${title}`} />
           <Sidebar {...this.props} />
           <div className="content">
             <div className="content__inner">
               <div className="page">
-                <h1 className="page__title">Tagi</h1>
+                <h1 className="page__title">Tags</h1>
                 <div className="page__body">
                   <div className="tags">
                     <ul className="tags__list">

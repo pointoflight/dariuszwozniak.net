@@ -13,12 +13,12 @@ class CategoriesRoute extends React.Component {
     return (
       <Layout>
         <div>
-          <Helmet title={`Kategorie - ${title}`} />
+          <Helmet title={`All Categories - ${title}`} />
           <Sidebar {...this.props} />
           <div className="content">
             <div className="content__inner">
               <div className="page">
-                <h1 className="page__title">Kategorie</h1>
+                <h1 className="page__title">Categories</h1>
                 <div className="page__body">
                   <div className="categories">
                     <ul className="categories__list">
