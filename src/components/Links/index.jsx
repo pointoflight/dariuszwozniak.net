@@ -10,11 +10,6 @@ class Links extends React.Component {
       twitter: author.twitter,
       github: author.github,
       linkedin: author.linkedin,
-      instagram: author.instagram,
-      flickr: author.flickr,
-      goodreads: author.goodreads,
-      stackoverflow: author.stackoverflow,
-      stackexchange: author.stackexchange,
       rss: author.rss,
     }
 
@@ -27,7 +22,7 @@ class Links extends React.Component {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <i className="icon-github" />
+              <i className="icon-github-circled" />
             </a>
           </li>
           <li className="links__list-item">
@@ -48,44 +43,8 @@ class Links extends React.Component {
               <i className="icon-twitter" />
             </a>
           </li>
-          <li className="links__list-item">
-            <a
-              href={`${links.goodreads}`}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <i className="icon-book" />
-            </a>
-          </li>
         </ul>
         <ul className="links__list">
-          <li className="links__list-item">
-            <a
-              href={`${links.stackoverflow}`}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <i className="icon-stackoverflow" />
-            </a>
-          </li>
-          <li className="links__list-item">
-            <a
-              href={`${links.stackexchange}`}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <i className="icon-stackexchange" />
-            </a>
-          </li>
-          <li className="links__list-item">
-            <a
-              href={`${links.instagram}`}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <i className="icon-instagram" />
-            </a>
-          </li>
           <li className="links__list-item">
             <a href={`${links.rss}`} rel="noopener noreferrer">
               <i className="icon-rss" />
