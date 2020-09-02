@@ -3,50 +3,47 @@ const pxtorem = require('postcss-pxtorem')
 
 module.exports = {
   siteMetadata: {
-    url: 'https://dariuszwozniak.net',
-    title: 'Dariusz Woźniak — Blog',
+    url: 'https://www.vedantc.com/',
+    title: 'Vedant Chavda — Blog',
     copyright: '©',
-    subtitle: 'Blog o programowaniu',
-    disqusShortname: 'dariuszwozniaknet',
+    subtitle: 'Blog about Programming, Research and Life.',
+    disqusShortname: 'pointoflight',
     menu: [
       {
         label: 'Blog',
         path: '/',
       },
+      // {
+      //   label: 'Kurs TDD',
+      //   path: '/kurs-tdd/',
+      // },
+      // {
+      //   label: 'Książka TDD',
+      //   path: '/ksiazka-tdd/',
+      // },
+      // {
+      //   label: 'Kategorie',
+      //   path: '/categories/',
+      // },
       {
-        label: 'Kurs TDD',
-        path: '/kurs-tdd/',
-      },
-      {
-        label: 'Książka TDD',
-        path: '/ksiazka-tdd/',
-      },
-      {
-        label: 'Kategorie',
-        path: '/categories/',
-      },
-      {
-        label: 'Tagi',
+        label: 'Tags',
         path: '/tags/',
       },
       {
-        label: 'O mnie',
+        label: 'About Me',
         path: '/about-me/',
       },
     ],
     author: {
-      name: 'Dariusz Woźniak',
-      twitter: 'https://twitter.com/dwozn',
-      github: 'https://github.com/dariusz-wozniak',
-      linkedin: 'https://www.linkedin.com/in/wozniakdariusz/',
+      name: 'Vedant Chavda',
+      twitter: 'https://twitter.com/VedantCh',
+      github: 'https://github.com/pointoflight',
+      linkedin: 'https://www.linkedin.com/in/vedant-chavda/',
       instagram: 'https://www.instagram.com/the.darek.wozniak/',
       flickr: 'https://www.flickr.com/photos/dariuszwozniak/albums',
-      goodreads:
-        'https://www.goodreads.com/author/show/18135947.Dariusz_Wo_niak',
-      stackoverflow:
-        'https://stackoverflow.com/users/297823/dariusz-wo%C5%BAniak',
-      stackexchange:
-        'https://stackexchange.com/users/112989/dariusz-wo%c5%baniak?tab=accounts',
+      goodreads: 'https://www.goodreads.com/author/show/18135947.Dariusz_Wo_niak',
+      stackoverflow: 'https://stackoverflow.com/users/297823/dariusz-wo%C5%BAniak',
+      stackexchange: 'https://stackexchange.com/users/112989/dariusz-wo%c5%baniak?tab=accounts',
       rss: '/rss.xml',
     },
   },
