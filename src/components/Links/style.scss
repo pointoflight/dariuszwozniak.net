@@ -11,17 +11,17 @@
         &-item {
             padding: 2 2;
             margin: 0 5px;
-            height: 25px;
+            height: 35px;
             width: 25px;
-            line-height: 24px;
-            border-radius: 1px;
+            line-height: 35px;
+            border-radius: 5px;
             text-align: center;
             background: $color-gray-bg;
             & a {
                 border: 0;
                 & i {
                     font-size: 18px;
-                    color: lighten($color-base, 35%);
+                    color: lighten($color-base, 30%);
                 }
                 &:hover,
                 &:focus {
