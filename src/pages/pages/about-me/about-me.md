@@ -1,21 +1,48 @@
 ---
-title: 'O mnie 😊'
+title: 'About Me'
 layout: page
 path: '/about-me/'
 redirect_from:
   - '/about/'
 ---
 
-Cześć, jestem Darek!
+Hi there!
 
-Jestem pasjonatem programowania oraz technik, metodyk i filozofii jego tworzenia (agile, lean i kanban). Uważam się za rzemieślnika programowania ([software craftsman](http://manifesto.softwarecraftsmanship.org/)). Jestem również [autorem książki o TDD](/ksiazka-tdd/) wydanej przez Helion, certyfikowanym [scrum masterem](https://www.scrumalliance.org/get-certified/scrummaster-track/certified-scrummaster) i [product ownerem](https://www.scrumalliance.org/get-certified/product-owner-track/certified-scrum-product-owner).
+I'm Vedant Chavda, a 3rd year Computer Science undergrad (class of 2022) at BITS Pilani. 
 
-Prócz samego programowania, uwielbiam podróże, a w szczególności do mniej znanych i nie zatłoczonych zakątków także naszego kraju. Zwiedziłem już ponad 40 krajów, wliczając częściowo uznawane republiki – Górski Karabach (republika Arcach), Republika Naddniestrza i Kosowo. Najchętniej podróżuję autostopem, rowerem i pociągiem. Lubię wracać do miejsc, w których już byłem i podróżować w wolniejszym tempie, nie zważając na [ilość zwiedzonych państw czy przebytych kilometrów](http://admiring-diversity.pl/blog/2016/06/07/podrozowanie-blisko-powoli-opowiesc-o-odkrywaniu/).
+I worked as a research fellow at the Max Planck Institute for Software Systems in the Real Time Systems Group, on formal analysis of real-time operating systems. You can visit my [GitLab profile](https://gitlab.mpi-sws.org/pointoflight) to take a look at my work.
 
-![Kaliningrad](kaliningrad.jpg)
 
-<div style="text-align: center"><small>Kaliningrad</small></div>
+I also spent my summer of 2020 doing machine learning research at CSIR-CEERI, focusing on Explainable Artificial Intelligence (XAI) for medical imaging applications.
 
-Staram się maksymalnie wykorzystać wolny czas również na inne zajęcia, w tym jazdę na rowerze i squash, ale także na dobry sen i medytację.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-Jeśli pragniesz się ze mną skontaktować, to pisz śmiało na mój adres mailowy: dariusz.wozniak \[at\] gmail.com.
+... and here's me with my favourite 🐶 doggo 🐕 ... 
+
+![Doggy](doggo2.jpg)
+
+<div style="text-align: center"><small>Sometime back in 2018</small></div>
+
