@@ -11,6 +11,7 @@ class Links extends React.Component {
       github: author.github,
       linkedin: author.linkedin,
       rss: author.rss,
+      facebook: author.facebook,
     }
 
     return (
@@ -41,6 +42,15 @@ class Links extends React.Component {
               rel="noopener noreferrer"
             >
               <i className="icon-twitter" />
+            </a>
+          </li>
+          <li className="links__list-item">
+            <a
+              href={`${links.facebook}`}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <i className="icon-facebook-squared" />
             </a>
           </li>
         </ul>

@@ -28,6 +28,7 @@ module.exports = {
       github: 'https://github.com/pointoflight',
       linkedin: 'https://www.linkedin.com/in/vedant-chavda/',
       rss: '/rss.xml',
+      facebook: 'https://www.facebook.com/vedant.chavda.7564',
     },
   },
   plugins: [
