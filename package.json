@@ -1,7 +1,7 @@
 {
   "version": "3.0.0",
-  "name": "dariuszwozniak.net",
-  "description": "Dariusz Woźniak blog",
+  "name": "vedantc.com",
+  "description": "Vedant Chavda -- Blog",
   "main": "n/a",
   "scripts": {
     "develop": "gatsby develop",
@@ -13,14 +13,11 @@
     "format": "prettier --write './*.js' 'src/**/*.js' 'src/**/*.jsx'",
     "deploy": "gatsby build --prefix-paths && gh-pages -d public -b master"
   },
-  "repository": "git+https://github.com/dariusz-wozniak/dariuszwozniak.net",
+  "repository": "git+https://github.com/pointoflight/dariuszwozniak.net",
   "keywords": [
-    "blog",
-    "dariusz",
-    "wozniak",
-    "tdd"
+    "blog"
   ],
-  "author": "Dariusz Woźniak <dariusz.wozniak@gmail.com>",
+  "author": "Vedant Chavda <f20180209@goa.bits-pilani.ac.in>",
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.5.1",
